@@ -1,0 +1,7 @@
+{
+  "version": "1",
+  "windows_url": "https://github.com/zvdxc/gamereleases/releases/download/1/spiel.zip",
+  "windows_exe": "Spiel.exe",
+  "linux_url": "https://github.com/zvdxc/gamereleases/releases/download/1/spiel.zip",
+  "linux_exe": "Spiel.x86_64"
+}
